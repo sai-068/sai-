@@ -17,6 +17,8 @@ class PalindromeExample{
    System.out.println("palindrome number ");
   else
    System.out.println("not palindrome");
+
+   System.out.println (" matter complted");
 }
 }
 
